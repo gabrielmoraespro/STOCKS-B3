@@ -1,0 +1,8 @@
+symbol,price,drawdown,upside,returns_1m,returns_3m,returns_1y,rsi,volatility,pe_ratio,market_cap,sector,score
+USIM5.SA,4.77,-44.3,79.5,-13.4,-18.9,-33.4,29.0,46.4,5.8,5864762880,Basic Materials,100
+MGLU3.SA,8.94,-35.7,55.6,-8.6,-4.1,-17.9,48.7,67.3,14.7,6591908864,Consumer Cyclical,100
+CSNA3.SA,7.94,-38.0,61.4,-12.5,-22.3,-29.9,31.5,47.0,7.6,10529154048,Basic Materials,100
+SUZB3.SA,54.11,-16.2,19.3,0.8,-0.1,14.6,56.6,25.2,7.4,66875092992,Basic Materials,90
+RAIL3.SA,19.13,-19.8,24.7,5.0,6.3,-1.3,58.1,29.9,13.1,35406757888,Industrials,85
+PCAR3.SA,3.05,-33.6,50.5,-8.4,27.1,1.7,44.4,67.8,-6.2,1494887296,Consumer Cyclical,85
+WEGE3.SA,42.39,-26.9,36.8,-5.8,-9.2,12.1,40.4,31.7,25.2,177855725568,Industrials,80

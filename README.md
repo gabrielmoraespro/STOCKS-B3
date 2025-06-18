@@ -2,6 +2,9 @@
 
 Sistema completo de análise e varredura global de ações com foco em identificar oportunidades de recuperação assimétrica.
 
+![Dashboard Amplo](https://github.com/gabrielmoraespro/STOCKS-B3/blob/main/stocks-img-1.PNG)
+
+
 ## 🚀 Características Principais
 
 - **100% Gratuito**: Utiliza apenas APIs e ferramentas gratuitas
@@ -10,6 +13,11 @@ Sistema completo de análise e varredura global de ações com foco em identific
 - **IA Integrada**: Análise de sentimento de notícias
 - **Interface Moderna**: Dashboard intuitivo via Streamlit
 - **Cache Inteligente**: Otimização de performance com banco SQLite
+
+
+![Dashboard Amplo](https://github.com/gabrielmoraespro/STOCKS-B3/blob/main/stocks-img-2.PNG)
+
+
 
 ## 📊 Funcionalidades
 
@@ -20,6 +28,12 @@ Sistema completo de análise e varredura global de ações com foco em identific
 - Sentimento de notícias com IA
 - Recomendação final: COMPRAR/AGUARDAR/EVITAR
 - Gráficos interativos de preços
+
+
+![Dashboard Amplo](https://github.com/gabrielmoraespro/STOCKS-B3/blob/main/stocks-img-3.PNG)
+
+
+
 
 ### Varredura Global
 - Análise automática de milhares de ações mundiais
@@ -34,6 +48,12 @@ Sistema completo de análise e varredura global de ações com foco em identific
 - Potencial de recuperação assimétrica
 - Correlação entre ativos
 - Sugestão de pesos para portfólio
+
+
+![Dashboard Amplo](https://github.com/gabrielmoraespro/STOCKS-B3/blob/main/stocks-img-4.PNG)
+
+
+
 
 ## 🛠️ Tecnologias Utilizadas
 
